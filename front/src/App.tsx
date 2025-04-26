@@ -1,10 +1,10 @@
-
+import MainPage from "./Pages/MainPage"
 
 function App() {
 
   return (
     <>
-      Hi
+    <MainPage/>
     </>
   )
 }
